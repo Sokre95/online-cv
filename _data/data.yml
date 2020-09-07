@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -78,11 +78,11 @@ projects:
 
       - title: Stella educative app
         link: https://projekt-stella.com.hr/
-        tagline: "Full stack Ruby on Rails developer - developed an json mobile api and web admin panel \n Tags: ruby, rails, api, html, css"
+        tagline: "Full stack Ruby on Rails developer - developed an json mobile api and web admin panel. Tags: ruby, rails, api, html, css"
 
       - title: Devicer educative app
         link: https://play.google.com/store/apps/details?id=life.devicer.devicer
-        tagline: "Freelance Ruby on Rails developer - developed an json mobile api \n Tags: ruby, rails, api"
+        tagline: "Freelance Ruby on Rails developer - developed an json mobile api. Tags: ruby, rails, api"
 
       - title: Fuzzy, Evolutionary and Neuro-computing - faculty course
         link: https://github.com/Sokre95/nenr
