@@ -46,12 +46,12 @@ education:
       university: Faculty of Electrical Engineering and Computing, University of Zagreb
       time: 2017 - 2020
       details: 
-        thesis: MSc Thesis: Self-Organization and Self-Adaptability in LoRaWAN Networks
+        thesis: Self-Organization and Self-Adaptability in LoRaWAN Networks
     - degree: BSc in Computer Engineering
       university: Faculty of Electrical Engineering and Computing, University of Zagreb
       time: 2014 - 2017
-      details: |
-        - BSc Thesis: Potential field and RRT based exploration algorithm
+      details:
+        thesis: Potential field and RRT based exploration algorithm
 
 experiences:
     - role: Ruby on Rails Developer
