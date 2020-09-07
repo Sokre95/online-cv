@@ -8,11 +8,12 @@ sidebar:
 
     # Profile information
     name: Krešimir Topolovec
+    birthdate: May, 1995.
     tagline: Computer Engineer & Ruby on Rails Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: k.topolovec95@gmail.com
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
     linkedin: krešimir-topolovec
@@ -44,14 +45,13 @@ education:
     - degree: MSc in Computer Engineering
       university: Faculty of Electrical Engineering and Computing, University of Zagreb
       time: 2017 - 2020
-      details: |
-        - MSc Thesis: Self-Organization and Self-Adaptability in LoRaWAN Networks
+      details: 
+        thesis: MSc Thesis: Self-Organization and Self-Adaptability in LoRaWAN Networks
     - degree: BSc in Computer Engineering
       university: Faculty of Electrical Engineering and Computing, University of Zagreb
       time: 2014 - 2017
       details: |
         - BSc Thesis: Potential field and RRT based exploration algorithm
-
 
 experiences:
     - role: Ruby on Rails Developer
@@ -63,7 +63,7 @@ experiences:
       company: Digihey
 
     - role: Ruby on Rails Developer
-      time: February 2020 -/
+      time: February 2020 - /
       company: Social Wizard
 
 
@@ -74,33 +74,37 @@ projects:
     assignments:
       - title: Pairwise sequence alignment using Hidden Markov Models
         link: https://github.com/Sokre95/bioinf_project
-        tagline: "bioinformatics, hidden markov models, dynamic programming, c++"
+        tagline: "Tags: bioinformatics, hidden markov models, dynamic programming, c++"
 
       - title: Stella educative app
         link: https://projekt-stella.com.hr/
-        role: Full stack Ruby on Rails developer - developed an json mobile api and web admin panel
-        tagline: "ruby, rails, api, html, css"
+        tagline: "Full stack Ruby on Rails developer - developed an json mobile api and web admin panel \n Tags: ruby, rails, api, html, css"
 
       - title: Devicer educative app
         link: https://play.google.com/store/apps/details?id=life.devicer.devicer
-        role: Ruby on Rails developer - developed an json mobile api
-        tagline: "ruby, rails, api"
+        tagline: "Freelance Ruby on Rails developer - developed an json mobile api \n Tags: ruby, rails, api"
+
+      - title: Fuzzy, Evolutionary and Neuro-computing - faculty course
+        link: https://github.com/Sokre95/nenr
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Ruby & Ruby on Rails
-        level: Active user & Good knowledge
+        level: 85%
 
       - name: Javascript & jQuery
-        level: Active user & Basic knowledge
-
-      - name: C
-        level: Active user & Good knowledge
+        level: 60%
 
       - name: HTML & CSS
-        level: Active user
+        level: 60%
+
+      - name: C
+        level: 70%
 
       - name: Python, Java, C++
-        level: Basic knowledge
+        level: 55%
+
+      - name: Embedded (Microcontrollers & Electronics)
+        level: 65%
